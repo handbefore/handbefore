@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=Wave&color=F1E1A6&height=300&section=header&text=GITHUB&fontSize=70&animation=fadeIn&fontColor=f7f5f5&stroke=363636)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Introduction..🙋🏻‍♀️;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Introduction...🙋🏻‍♀️;소개...🙋🏻‍♀️)](https://git.io/typing-svg)
 <p>Front-end Developer 🤓</p>
 </br>
 </br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Skill...✏️;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Skill...✏️;기술...✏️)](https://git.io/typing-svg)
 
 
 <div align=center>
